@@ -1,0 +1,8 @@
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\bin\Debug\Memory Card Game.exe.config
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\bin\Debug\Memory Card Game.exe
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\bin\Debug\Memory Card Game.pdb
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\obj\Debug\Memory Card Game.csproj.AssemblyReference.cache
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\obj\Debug\Memory Card Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\obj\Debug\Memory Card Game.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\obj\Debug\Memory Card Game.exe
+C:\Users\ayber\source\repos\Memory Card Game\Memory Card Game\obj\Debug\Memory Card Game.pdb

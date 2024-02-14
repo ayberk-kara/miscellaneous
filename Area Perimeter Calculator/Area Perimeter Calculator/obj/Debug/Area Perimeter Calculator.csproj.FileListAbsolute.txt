@@ -1,0 +1,8 @@
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\bin\Debug\Area Perimeter Calculator.exe.config
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\bin\Debug\Area Perimeter Calculator.exe
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\bin\Debug\Area Perimeter Calculator.pdb
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\obj\Debug\Area Perimeter Calculator.csproj.AssemblyReference.cache
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\obj\Debug\Area Perimeter Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\obj\Debug\Area Perimeter Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\obj\Debug\Area Perimeter Calculator.exe
+C:\Users\ayber\source\repos\Area Perimeter Calculator\Area Perimeter Calculator\obj\Debug\Area Perimeter Calculator.pdb
